@@ -203,7 +203,7 @@ def main():
     # detector.camera_detector(cap)
 
     # detect from image file
-    imname = 'test/person.jpg'
+    imname = 'test/cat.jpg'
     detector.image_detector(imname)
 
 
